@@ -1,0 +1,18 @@
+{
+  "CONTRACT_ADDRESS": "0x874C324dB04a4131ff899C1482685ABc2CeD7C8f",
+  "SCAN_LINK": "https://rinkeby.etherscan.io/address/0x874C324dB04a4131ff899C1482685ABc2CeD7C8f",
+  "NETWORK": {
+    "NAME": "etherium",
+    "SYMBOL": "ETH",
+    "ID": 4
+  },
+  "NFT_NAME": "Union Farmers",
+  "SYMBOL": "CnF",
+  "MAX_SUPPLY": 420,
+  "WEI_COST": 42000000000000000000,
+  "DISPLAY_COST": 0.042,
+  "GAS_LIMIT": 285000,
+  "MARKETPLACE": "Opeansea",
+  "MARKETPLACE_LINK": "https://testnets.opensea.io/collection/union-farmers-v3",
+  "SHOW_BACKGROUND": true
+}
